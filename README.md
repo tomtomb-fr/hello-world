@@ -1,2 +1,2 @@
 # hello-world
-Testing github
+Testing github, ain't that funny?
